@@ -82,6 +82,15 @@ This project solves that by building a dashboard that provides quick and actiona
 ### Monthly Revenue Trend
 ![Monthly Revenue](monthly_chart.png)
 
+- Sales-performance-dasboard.pbix → Power BI dashboard file
+- Sales-dashboard-preview.png → Main dashboard screenshot
+- Sales.csv → Dataset
+- sales_analysis.py → Python analysis script
+- monthly_chart.png → Monthly revenue trend chart
+- product_chart.png → Product revenue chart
+- region_chart.png → Regional revenue chart
+
+
 ---
 
 ## 🚀 Conclusion
