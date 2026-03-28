@@ -66,15 +66,21 @@ This project solves that by building a dashboard that provides quick and actiona
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard](sales-dashboard-preview.png)
+
+![Dashboard](Sales-dashboard-preview.png)
 
 ---
 
-## 📂 Project Files
-- sales-performance-dashboard.pbix → Power BI dashboard file  
-- sales-dashboard-preview.png → Dashboard screenshot  
-- sales-performance-dashboard.pdf → Exported report  
-- sales.csv → Dataset  
+## 📊 Visualizations
+
+### Revenue by Product
+![Revenue by Product](product_chart.png)
+
+### Revenue by Region
+![Revenue by Region](region_chart.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue](monthly_chart.png)
 
 ---
 
