@@ -26,7 +26,6 @@ This project analyzes sales data to identify revenue trends, top-performing prod
 - Power BI Dashboard (visual analysis)
 
 ## 📊 Dashboard Preview
-<!-- Add your Power BI screenshot below -->
 ![Dashboard](Sales-dashboard-preview.png)
 
 ## 🚀 Outcome
