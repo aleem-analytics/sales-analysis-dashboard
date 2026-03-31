@@ -1,4 +1,4 @@
-# Sales Performance Analysis
+[# Sales Performance Analysis
 
 ## 📌 Overview
 This project analyzes sales data to identify revenue trends, top-performing products, and regional performance.
@@ -22,6 +22,6 @@ This project analyzes sales data to identify revenue trends, top-performing prod
 - sales.csv
 - Python analysis script
 - Visualizations
-
+![Dashboard](Sales-dashboard-preview.png)
 ## 🚀 Outcome
-This project showcases data cleaning, analysis, and visualization skills using real-world business data.
+This project showcases data cleaning, analysis, and visualization skills using real-world](https://github.com/aleem-analytics/sales-analysis-dashboard/tree/main) business data.
